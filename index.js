@@ -22,9 +22,10 @@ function iLoveTheBeatles(n){
   let emptyArray;
   let words = "I love the Beatles!";
   i=0;
-  do {}
+  do {emptyArray.push(words);
+    i++
+  }
   
-}
 
 
 
