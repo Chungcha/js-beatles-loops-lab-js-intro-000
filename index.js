@@ -23,8 +23,8 @@ function iLoveTheBeatles(n){
   let words = "I love the Beatles!";
   i=0;
   do {emptyArray.push(words);
-    i++
-  }
+    i++;
+  } while 
   
 
 
