@@ -23,7 +23,7 @@ function iLoveTheBeatles(num){
   let words = "I love the Beatles!";
   do {emptyArray.push(words);
     num++;
-  } while (number<15)
+  } while (num<15)
   return emptyArray;
 }
   
