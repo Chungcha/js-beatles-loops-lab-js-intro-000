@@ -24,6 +24,7 @@ function iLoveTheBeatles(num){
   do {emptyArray.push(words);
     num++;
   } while (number<15)
+  return emptyArray;
 }
   
 
